@@ -128,7 +128,7 @@ tokenizers==0.19.1
 toml==0.10.2
 tomlkit==0.12.0
 torch==2.4.0
-torchaudio==2.1.0
+torchaudio==2.4.0
 torchdata==0.7.0
 torchmetrics==1.4.1
 torchtext==0.16.0
